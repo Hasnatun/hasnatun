@@ -23,6 +23,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Hasnatun&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Hasnatun)  
 
 

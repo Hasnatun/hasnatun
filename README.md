@@ -1,4 +1,4 @@
-https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/481459216_1926032338207466_6062134841608511275_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uG15sf-RF1cQ7kNvgEt0JSy&_nc_oc=AdjWIKgQ-MgWKbkKDd45nMnasG0Z7WCXJ7-7MAh9QkIhsi0QT2TuuJSs2p2aZoeqsQo&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=AsTsTzbHUSDa0uPvFA58bSI&oh=00_AYCwxpG4d-xqR_Ekj0qT9pYOF_WnhI-b6T9AjetV675LbQ&oe=67CC7420
+
 ### Hi there 👋, I'm Hasna tun nur 
 #### Web developer 
 
